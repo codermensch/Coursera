@@ -1,1 +1,1 @@
-# Coursera HTMLCSSJavascriptCourse
+# HTMLCSSJavascriptCourse
